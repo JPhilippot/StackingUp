@@ -1,2 +1,5 @@
-# StackingUp
-Practice full-stack technologies by creating a fully playable game accessible through a web browser. I will be using a diverse range of technologies that are relevant and useful for a full-stack developer ! 
+# StackingUp!
+
+🚧 Project under construction 🏗️
+
+This project aims to help me learn and practice technologies relevant to a full-stack developer through the creation of an open-source web browser game. I will try to document my understanding of these technologies the best I can, and maybe you might learn something too !
